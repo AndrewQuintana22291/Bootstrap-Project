@@ -4,3 +4,9 @@
    justify-content: center;
 
 } 
+
+.mainbody{
+display:flex;
+justify-content:center;
+
+}
